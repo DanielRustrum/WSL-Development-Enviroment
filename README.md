@@ -151,14 +151,15 @@ The *Args* section helps define the args which depend on order, that the command
    2. [ ] Registry
    3. [ ] System-Settings
 3. [ ] Windows Permissions Management
-4. [ ] Operations
+4. [ ] Windows Network Folders 
+5. [ ] Operations
    1. [ ] Bat to Exe Build
    2. [ ] Release Versioning
    3. [ ] Pip Build
    4. [ ] Branch Management
    5. [ ] Issue Management
    6. [ ] Pull Management
-5. [ ] External Commands
+6. [ ] External Commands
    1. [ ] Project
    2. [ ] SecureShell
    3. [ ] VirtualBox
