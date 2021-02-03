@@ -151,7 +151,9 @@ The *Args* section helps define the args which depend on order, that the command
    2. [ ] Registry
    3. [ ] System-Settings
 3. [ ] Windows Permissions Management
-4. [ ] Windows Network Folders 
+4. [ ] Explorer Command Expantion
+   1. [ ] Network Folders
+   2. [ ] Public Folder 
 5. [ ] Operations
    1. [ ] Bat to Exe Build
    2. [ ] Release Versioning
